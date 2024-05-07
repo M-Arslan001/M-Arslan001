@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Muhammad Arslan Ashraf</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/e4/56/94/e4569443714172f2773aea229195685c.jpg">
@@ -9,7 +8,8 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 💬 Ask me about **Web Development**
+- 🚀 Passionate about <strong>frontend technologies</strong>
+
 
 - 📫 How to reach me **arslanashraf185@gmail.com**
 
